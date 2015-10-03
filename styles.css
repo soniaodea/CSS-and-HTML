@@ -1,0 +1,20 @@
+
+/** Sets the default font-family to serif for the hole page. *
+  * Sets the background color to pink.                       **/
+body {
+	font-family: serif;
+	background-color: pink;
+}
+
+/** Sets te color of the h1 tag to grey.                 *
+  * Sets the font-size to 30pt.                          *
+  * Sets the font to "Times New Roman".                  *  
+  * Sets the top margin to 5%.                           *
+  * Sets the left margin to 10%.                         **/
+h1 {
+	color: grey;
+	font-size: 30pt;
+	font: "Times New Roman";
+	margin-top: 5%;
+	margin-left: 10%;	
+}
